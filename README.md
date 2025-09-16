@@ -22,7 +22,7 @@ LINE Webhook → Cloud Functions → News Processing → Firestore
             Google NL API (實體識別)
 ```
 
-## 技術棧
+## 使用技術
 - **後端框架**：Flask + Functions Framework
 - **部署**：Google Cloud Functions
 - **數據庫**：Google Firestore
